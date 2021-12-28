@@ -1,4 +1,3 @@
-const util = require('util')
 const express = require('express')
 const bodyParser = require('body-parser')
 const { promisify } = require('util')
